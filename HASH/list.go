@@ -1,5 +1,8 @@
 //Package list implements a doubly linked list.
 
+//package list
+
+
 package main
 
 import (
@@ -22,3 +25,4 @@ func main() {
 
 }
 
+//          fmt.Println("(* sort error *)")

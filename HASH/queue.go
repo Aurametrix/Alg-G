@@ -86,4 +86,6 @@ func main() {
 		item := heap.Pop(pq).(*Item)
 		fmt.Printf("%.2d:%s ", item.priority, item.value)
 	}
+        fmt.Printf("\n ~~~~~~~~~~~~~~~~ \n")
 }
+
