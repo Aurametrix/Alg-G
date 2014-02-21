@@ -1,4 +1,4 @@
-ckage main
+package main
 
 import (
     "log"
@@ -84,5 +84,4 @@ import (
 																																												        }
 
 																																													    log.Printf("%v\n", rootFolder)
-																																													    }y
-
+																																													    }
