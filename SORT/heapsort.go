@@ -12,12 +12,10 @@ type HeapHelper struct {
 } 
 
 func (self HeapHelper) Len() int { return self.length } 
-func (self HeapHelper) Less(i, j int) bool { return 
-self.container.Less(j, i) } 
+func (self HeapHelper) Less(i, j int) bool { return self.container.Less(j, i) } 
 func (self HeapHelper) Swap(i, j int) { self.container.Swap(i, j) } 
 func (self *HeapHelper) Push(x interface{}) { panic("unused") } 
-func (self *HeapHelper) Pop() interface{} { self.length--; return 
-nil } 
+func (self *HeapHelper) Pop() interface{} { self.length--; return nil } 
 
 func heapSort(a sort.Interface) { 
     helper := &HeapHelper{ a, a.Len() } 
