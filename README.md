@@ -24,17 +24,61 @@ go command [arguments]
 The commands are:
 
 build       compile packages and dependencies
+
 clean       remove object files
+
 doc         run godoc on package sources
+
 env         print Go environment information
+
 fix         run go tool fix on packages
+
 fmt         run gofmt on package sources
+
 get         download and install packages and dependencies
+
 install     compile and install packages and dependencies
+
 list        list packages
+
 run         compile and run Go program
+
 test        test packages
+
 tool        run specified go tool
+
 version     print Go version
+
 vet         run go tool vet on packages
+
 Use "go help [command]" for more information about a command.
+======
+
+Examples of syntax:
+a + b => a.Add(b)
+b*b - 4 * a * c => b.Mul(b).Sub(big.NewInt(4).Mul(a).Mul(c))
+
+Go is a good choice for Python and Ruby developers for easier higher concurrency,
+trading some flexibility, ambiguousness, or dynamism for better performance & safer code.
+Go is more productive and maintainable than Lisp, but for many it's less "fun" 
+
+Go Playground
+http://play.golang.org/
+
+Machine Learning Library:
+https://github.com/sjwhitworth/golearn
+
+A library for bringing generics-like functionality to Go
+http://clipperhouse.github.io/gen/
+
+Go Object Oriented Design
+http://nathany.com/good/
+
+Go google group
+https://groups.google.com/forum/#!forum/go-qml
+
+Static Site Generator built in GoLang
+https://github.com/spf13/hugo
+
+Go Resources
+https://github.com/mindreframer/golang-stuff/
