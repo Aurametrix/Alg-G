@@ -1,30 +1,33 @@
 package main
  
-import "fmt"
+import (
+  "sort"
+  "fmt"
+)
  
 func main() {
     a := []int{170, 45, 75, -90, -802, 24, 2, 66}
     fmt.Println("before:", a)
-    combSort(a)
+    combSort(sort.IntSlice(a))
     fmt.Println("after: ", a)
 }
  
-func combSort(a []int) {
-    if len(a) < 2 {
+func combSort(a sort.Interface) {
+    if a.Len() < 2 {
         return
     }
-    for gap := len(a); ; {
+    for gap := a.Len(); ; {
         if gap > 1 {
             gap = gap * 4 / 5
         }
         swapped := false
         for i := 0; ; {
-            if a[i] > a[i+gap] {
-                a[i], a[i+gap] = a[i+gap], a[i]
+            if a.Less(i+gap, i) {
+                a.Swap(i, i+gap)
                 swapped = true
             }
             i++
-            if i+gap >= len(a) {
+            if i+gap >= a.Len() {
                 break
             }
         }
