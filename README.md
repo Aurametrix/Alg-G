@@ -104,6 +104,9 @@ http://kukuruku.co/hub/golang/go-language-for-beginners
 Youtube
 https://www.youtube.com/user/gocoding
 
+
+[using Go templtes](https://blog.gopheracademy.com/advent-2017/using-go-templates/)
+
 a few repos
 https://github.com/clipperhouse/gen/tree/projection
 https://github.com/droundy/gotgo
