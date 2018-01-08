@@ -108,15 +108,20 @@ https://www.youtube.com/user/gocoding
 [using Go templtes](https://blog.gopheracademy.com/advent-2017/using-go-templates/)
 
 a few repos
-https://github.com/clipperhouse/gen/tree/projection
-https://github.com/droundy/gotgo
-https://github.com/jbrukh/bayesian 
-http://jsgoecke.github.io/go-wit/
-https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 
-http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
++ https://github.com/clipperhouse/gen/tree/projection
++ https://github.com/droundy/gotgo
++ https://github.com/jbrukh/bayesian 
++ http://jsgoecke.github.io/go-wit/
++ https://github.com/StefanSchroeder/Golang-Regex-Tutorial
+
++ http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
 
 
 [Hugo](http://themes.gohugo.io) -  open-source static site generator
 
 [Neugram](https://neugram.io/blog/neugram-briefly)
+
+[Uber's highest query per second service](http://eng.uber.com/go-geofence/)
+
+[other data structures for geofencing](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
