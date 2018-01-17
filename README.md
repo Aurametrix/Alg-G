@@ -107,6 +107,9 @@ https://www.youtube.com/user/gocoding
 
 [using Go templtes](https://blog.gopheracademy.com/advent-2017/using-go-templates/)
 
+
+[Twirp, RPC framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f)
+
 a few repos
 
 + https://github.com/clipperhouse/gen/tree/projection
