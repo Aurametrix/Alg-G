@@ -1,0 +1,83 @@
+func getImage(filePath string) image.Image {
+	imgFile, err := os.Open(filePath)
+	defer imgFile.Close()
+	if err != nil {
+		fmt.Println("Cannot read file:", err)
+	}
+	img, _, err := image.Decode(imgFile)
+	if err != nil {
+		fmt.Println("Cannot decode file:", err)
+	}
+	return img
+}
+
+// sprite for laser cannon
+var laserCannon = Sprite{
+	size:     cannonSprite,
+	Filter:   gift.New(gift.Crop(cannonSprite)),
+	Position: image.Pt(50, 250),
+	Status:   true,
+}
+
+// sprite for the laser beam
+var beam = Sprite{
+	size:     beamSprite,
+	Filter:   gift.New(gift.Crop(beamSprite)),
+	Position: image.Pt(laserCannon.Position.X+7, 250),
+	Status:   false,
+}
+
+// used for creating alien sprites
+func createAlien(x, y int, sprite, alt image.Rectangle, points int) (s Sprite) {
+	s = Sprite{
+		size:     sprite,
+		Filter:   gift.New(gift.Crop(sprite)),
+		FilterA:  gift.New(gift.Crop(alt)),
+		FilterE:  gift.New(gift.Crop(alienExplode)),
+		Position: image.Pt(x, y),
+		Status:   true,
+		Points:   points,
+	}
+	return
+}
+
+err := termbox.Init()
+if err != nil {
+	panic(err)
+}
+
+// poll for keyboard events in another goroutine
+events := make(chan termbox.Event, 1000)
+go func() {
+	for {
+		events <- termbox.PollEvent()
+	}
+}()
+
+	// show the start screen
+	startScreen := getImage("imgs/start.png")
+	printImage(startScreen)
+start:
+	for {
+		switch ev := termbox.PollEvent(); ev.Type {
+		case termbox.EventKey:
+			if ev.Ch == 's' || ev.Ch == 'S' {
+				break start
+			}
+			if ev.Ch == 'q' {
+				gameOver = true
+				break start
+			}
+		}
+	}
+  
+  // populate the aliens
+for i := aliensStartCol; i < aliensStartCol+(alienSize*aliensPerRow); i += alienSize {
+	aliens = append(aliens, createAlien(i, 30, alien1Sprite, alien1aSprite, 30))
+}
+for i := aliensStartCol; i < aliensStartCol+(30*aliensPerRow); i += alienSize {
+	aliens = append(aliens, createAlien(i, 55, alien2Sprite, alien2aSprite, 20))
+}
+for i := aliensStartCol; i < aliensStartCol+(30*aliensPerRow); i += alienSize {
+	aliens = append(aliens, createAlien(i, 80, alien3Sprite, alien3aSprite, 10))
+}
