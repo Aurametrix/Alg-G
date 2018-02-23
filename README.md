@@ -128,3 +128,11 @@ a few repos
 [Uber's highest query per second service](http://eng.uber.com/go-geofence/)
 
 [other data structures for geofencing](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
+
+
+### Versioned Commands
+
+    $ go list -f {{.Dir}} rsc.io/quote
+    $ go list -f {{context.ReleaseTags}}
+    $ vgo list -f {{.Dir}} rsc.io/quote
+    $ vgo list -m
