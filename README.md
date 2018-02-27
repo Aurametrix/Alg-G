@@ -130,6 +130,9 @@ a few repos
 [other data structures for geofencing](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
 
 
+[Go users 2017 survey](https://blog.golang.org/survey2017-results)
+
+
 ### Versioned Commands
 
     $ go list -f {{.Dir}} rsc.io/quote
