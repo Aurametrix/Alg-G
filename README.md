@@ -104,6 +104,7 @@ http://kukuruku.co/hub/golang/go-language-for-beginners
 Youtube
 https://www.youtube.com/user/gocoding
 
+[Learn Go by writing tests](https://github.com/quii/learn-go-with-tests/tree/master/hello-world) /also for [other languages](http://exercism.io)
 
 [using Go templtes](https://blog.gopheracademy.com/advent-2017/using-go-templates/)
 
