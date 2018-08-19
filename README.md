@@ -92,8 +92,11 @@ https://groups.google.com/forum/#!forum/go-qml
 Static Site Generator built in GoLang
 https://github.com/spf13/hugo
 
-Go Resources
+GO Resources
 https://github.com/mindreframer/golang-stuff/
+
+Introdution to GO modules
+https://roberto.selbach.ca/intro-to-go-modules/
 
 Book
 http://www.golang-book.com/
