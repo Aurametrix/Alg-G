@@ -104,13 +104,14 @@ http://www.golang-book.com/
 Go for beginners:
 http://kukuruku.co/hub/golang/go-language-for-beginners
 
-Youtube
+Youtube:
 https://www.youtube.com/user/gocoding
 
 [Learn Go by writing tests](https://github.com/quii/learn-go-with-tests/tree/master/hello-world) /also for [other languages](http://exercism.io)
 
 [using Go templtes](https://blog.gopheracademy.com/advent-2017/using-go-templates/)
 
+[Scheduling](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
 
 [Twirp, RPC framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f)
 
