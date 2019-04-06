@@ -10,3 +10,13 @@ func main() {
 
         fmt.Println(err) // read config failed: open failed: error
 }
+
+
+ew := &errWriter{w: fd}
+ew.write(p0)
+ew.write(p1)
+ew.write(p2)
+// and so on
+if ew.err != nil {
+    return ew.err
+}
