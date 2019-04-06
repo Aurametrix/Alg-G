@@ -12,11 +12,21 @@ func main() {
 }
 
 
-ew := &errWriter{w: fd}
-ew.write(p0)
-ew.write(p1)
-ew.write(p2)
+b := bufio.NewWriter(fd)
+b.Write(p0)
+b.Write(p1)
+b.Write(p2)
 // and so on
-if ew.err != nil {
-    return ew.err
+if b.Flush() != nil {
+    return b.Flush()
+}
+
+r := fd.Write(p0).Then(func(_) {
+		return fd.Write(p1)
+	}).Then(func(_) {
+		return fd.Write(p2)
+	})
+// and so on
+if r.Error() != nil {
+	return r.Error()
 }
