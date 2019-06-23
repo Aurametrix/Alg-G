@@ -117,6 +117,10 @@ https://www.youtube.com/user/gocoding
 
 [Twirp, RPC framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f)
 
+
+[Olivia](https://github.com/olivia-ai/olivia), open source [chatbot](https://olivia-ai.org)
+
+
 a few repos
 
 + https://github.com/clipperhouse/gen/tree/projection
