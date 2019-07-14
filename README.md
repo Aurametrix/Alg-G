@@ -142,6 +142,8 @@ a few repos
 
 [other data structures for geofencing](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
 
+[SQL builder and database toolkit](https://github.com/colinjfw/sqlkit)
+
 
 [Go users 2017 survey](https://blog.golang.org/survey2017-results)
 
