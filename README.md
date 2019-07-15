@@ -129,6 +129,7 @@ a few repos
 + https://github.com/jbrukh/bayesian 
 + http://jsgoecke.github.io/go-wit/
 + https://github.com/StefanSchroeder/Golang-Regex-Tutorial
++ [Virtual Kubernetes](https://github.com/ibuildthecloud/k3v)
 
 + http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
 
