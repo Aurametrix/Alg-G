@@ -120,7 +120,7 @@ https://www.youtube.com/user/gocoding
 
 [Olivia](https://github.com/olivia-ai/olivia), open source [chatbot](https://olivia-ai.org)
 
-[]DICOM image parser](https://github.com/suyashkumar/dicom)
+[DICOM image parser](https://github.com/suyashkumar/dicom)
 
 a few repos
 
@@ -130,6 +130,8 @@ a few repos
 + http://jsgoecke.github.io/go-wit/
 + https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 + [Virtual Kubernetes](https://github.com/ibuildthecloud/k3v)
+
++[Parallel Image Processing Algorithms](https://github.com/anthonynsimon/bild)
 
 + http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
 
