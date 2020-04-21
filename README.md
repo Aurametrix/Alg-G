@@ -131,7 +131,7 @@ a few repos
 + https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 + [Virtual Kubernetes](https://github.com/ibuildthecloud/k3v)
 
-+[Parallel Image Processing Algorithms](https://github.com/anthonynsimon/bild)
++ [Parallel Image Processing Algorithms](https://github.com/anthonynsimon/bild)
 
 + http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
 
@@ -150,6 +150,7 @@ a few repos
 
 [Go users 2017 survey](https://blog.golang.org/survey2017-results)
 
+[GO developer survey 2019](https://blog.golang.org/survey2019-results)
 
 ### Versioned Commands
 
