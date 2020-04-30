@@ -148,6 +148,8 @@ a few repos
 [SQL builder and database toolkit](https://github.com/colinjfw/sqlkit)
 
 
+[MIDAS](https://github.com/steve0hh/midas)  - edge stream anomaly detection 
+
 [Go users 2017 survey](https://blog.golang.org/survey2017-results)
 
 [GO developer survey 2019](https://blog.golang.org/survey2019-results)
