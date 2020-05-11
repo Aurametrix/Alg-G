@@ -139,7 +139,7 @@ a few repos
 
 [Hugo](http://themes.gohugo.io) -  open-source static site generator
 
-[Neugram](https://neugram.io/blog/neugram-briefly)
+[RSS readerNeugram](https://neugram.io/blog/neugram-briefly)
 
 [Uber's highest query per second service](http://eng.uber.com/go-geofence/)
 
@@ -147,6 +147,7 @@ a few repos
 
 [SQL builder and database toolkit](https://github.com/colinjfw/sqlkit)
 
+[RSS reader](https://github.com/dertuxmalwieder/rssfs) running as root
 
 [MIDAS](https://github.com/steve0hh/midas)  - edge stream anomaly detection 
 
