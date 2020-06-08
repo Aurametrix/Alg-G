@@ -151,6 +151,8 @@ a few repos
 
 [MIDAS](https://github.com/steve0hh/midas)  - edge stream anomaly detection 
 
+[io_uring](https://developers.mattermost.com/blog/hands-on-iouring-go/)
+
 [Go users 2017 survey](https://blog.golang.org/survey2017-results)
 
 [GO developer survey 2019](https://blog.golang.org/survey2019-results)
