@@ -151,6 +151,8 @@ a few repos
 
 [MIDAS](https://github.com/steve0hh/midas)  - edge stream anomaly detection 
 
+[GO+ for dta science](https://github.com/qiniu/goplus)
+
 [io_uring](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 
 [Go users 2017 survey](https://blog.golang.org/survey2017-results)
