@@ -141,6 +141,8 @@ a few repos
 
 [RSS readerNeugram](https://neugram.io/blog/neugram-briefly)
 
+[Ful-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) - [github]((https://github.com/akrylysov/simplefts)
+
 [Uber's highest query per second service](http://eng.uber.com/go-geofence/)
 
 [other data structures for geofencing](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
