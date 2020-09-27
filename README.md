@@ -122,6 +122,8 @@ https://www.youtube.com/user/gocoding
 
 [DICOM image parser](https://github.com/suyashkumar/dicom)
 
+[Create system diagrams](https://github.com/blushft/go-diagrams)
+
 a few repos
 
 + https://github.com/clipperhouse/gen/tree/projection
