@@ -135,6 +135,8 @@ a few repos
 
 + [Parallel Image Processing Algorithms](https://github.com/anthonynsimon/bild)
 
++ [Automated trading](https://github.com/env0/terratag)
+
 + http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
 
 + [Bug tracker embedded in Git](https://github.com/MichaelMure/git-bug)
