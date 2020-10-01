@@ -155,7 +155,9 @@ a few repos
 
 [MIDAS](https://github.com/steve0hh/midas)  - edge stream anomaly detection 
 
-[GO+ for dta science](https://github.com/qiniu/goplus)
+[GO+ for data science](https://github.com/qiniu/goplus)
+
+[Hammer](https://github.com/ShaileshSurya/hammer) - REST API client
 
 [io_uring](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 
