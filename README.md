@@ -106,6 +106,8 @@ http://www.golang-book.com/
 Go for beginners:
 http://kukuruku.co/hub/golang/go-language-for-beginners
 
+[REgular expressions](https://codesalad.dev/blog/go-regular-expressions-5)
+
 Youtube:
 https://www.youtube.com/user/gocoding
 
