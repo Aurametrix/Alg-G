@@ -169,6 +169,8 @@ a few repos
 
 [GO developer survey 2019](https://blog.golang.org/survey2019-results)
 
+[11/10/2020](https://blog.golang.org/11years) - 11 years of GO
+
 ### Versioned Commands
 
     $ go list -f {{.Dir}} rsc.io/quote
