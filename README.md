@@ -154,6 +154,7 @@ a few repos
 [other data structures for geofencing](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
 
 [SQL builder and database toolkit](https://github.com/colinjfw/sqlkit)
+[web development](https://freshman.tech/web-development-with-go/)
 
 [RSS reader](https://github.com/dertuxmalwieder/rssfs) running as root
 
