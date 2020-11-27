@@ -162,6 +162,8 @@ a few repos
 
 [GO+ for data science](https://github.com/qiniu/goplus)
 
+[RDF data](https://github.com/owulveryck/gon3) - [ontology & graphs](https://blog.owulveryck.info/2020/11/17/ontology-graphs-and-turtles-part-ii.html)
+
 [Hammer](https://github.com/ShaileshSurya/hammer) - REST API client
 
 [io_uring](https://developers.mattermost.com/blog/hands-on-iouring-go/)
