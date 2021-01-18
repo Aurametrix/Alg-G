@@ -10,6 +10,7 @@ http://golang.org/doc/install
 To learn:
 http://golang.org/
 
+[YC recommends](https://news.ycombinator.com/item?id=25812021)
 
 To run
 
@@ -173,6 +174,12 @@ a few repos
 [GO developer survey 2019](https://blog.golang.org/survey2019-results)
 
 [11/10/2020](https://blog.golang.org/11years) - 11 years of GO
+
+[Solkit](https://github.com/VladimirMarkelov/solkit) - Solitaire games
+
+[Perkeep](https://github.com/perkeep/perkeep) - peersonal storage systeem
+
+
 
 ### Versioned Commands
 
