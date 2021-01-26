@@ -181,6 +181,7 @@ a few repos
 
 [Perkeep](https://github.com/perkeep/perkeep) - peersonal storage systeem
 
+[Command PATH security](https://blog.golang.org/path-security)
 
 
 ### Versioned Commands
