@@ -107,7 +107,7 @@ http://www.golang-book.com/
 Go for beginners:
 http://kukuruku.co/hub/golang/go-language-for-beginners
 
-[REgular expressions](https://codesalad.dev/blog/go-regular-expressions-5)
+[Regular expressions](https://codesalad.dev/blog/go-regular-expressions-5)
 
 Youtube:
 https://www.youtube.com/user/gocoding
@@ -184,6 +184,8 @@ a few repos
 [PCP](https://github.com/dennis-tra/pcp) - peer-to-peer data transfr tool
 
 [Command PATH security](https://blog.golang.org/path-security)
+
+[The universal loader](https://www.symbolcrash.com/2021/03/04/the-universal-loader-for-go/)
 
 
 ### Versioned Commands
