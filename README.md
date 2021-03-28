@@ -90,6 +90,9 @@ http://nathany.com/good/
 Go google group
 https://groups.google.com/forum/#!forum/go-qml
 
+Go for data science
+https://goplus.org/
+
 Static Site Generator built in GoLang
 https://github.com/spf13/hugo
 
