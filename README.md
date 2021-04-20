@@ -99,6 +99,8 @@ https://github.com/spf13/hugo
 GO Resources
 https://github.com/mindreframer/golang-stuff/
 
+[Golang news](https://golangnews.com/)
+
 [Using GO modules](https://blog.golang.org/using-go-modules)
 
 Introdution to GO modules
