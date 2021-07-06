@@ -141,6 +141,8 @@ a few repos
 + https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 + [Virtual Kubernetes](https://github.com/ibuildthecloud/k3v)
 
++ [Time series database](https://github.com/nakabonne/tstorage); [blog post](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
+
 + [Parallel Image Processing Algorithms](https://github.com/anthonynsimon/bild)
 
 + [Automated trading](https://github.com/env0/terratag)
