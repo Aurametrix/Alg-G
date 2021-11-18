@@ -198,6 +198,8 @@ a few repos
 
 [The universal loader](https://www.symbolcrash.com/2021/03/04/the-universal-loader-for-go/)
 
+[web scraping](https://www.scrapingbee.com/blog/web-scraping-go/)
+
 
 [Lmgrp](https://github.com/boyter/cs) -- [lucene grep](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
 
