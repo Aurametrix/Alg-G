@@ -198,6 +198,8 @@ a few repos
 
 [The universal loader](https://www.symbolcrash.com/2021/03/04/the-universal-loader-for-go/)
 
+[Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
+
 [web scraping](https://www.scrapingbee.com/blog/web-scraping-go/)
 
 
