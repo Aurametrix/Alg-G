@@ -186,6 +186,8 @@ a few repos
 
 [GO developer survey 2019](https://blog.golang.org/survey2019-results)
 
+[Data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
+
 [11/10/2020](https://blog.golang.org/11years) - 11 years of GO
 
 [Solkit](https://github.com/VladimirMarkelov/solkit) - Solitaire games
