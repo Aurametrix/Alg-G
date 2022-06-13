@@ -170,6 +170,8 @@ a few repos
 
 [RSS reader](https://github.com/dertuxmalwieder/rssfs) running as root
 
+[Ycombinator in Go](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
+
 [MIDAS](https://github.com/steve0hh/midas)  - edge stream anomaly detection 
 
 [GO+ for data science](https://github.com/qiniu/goplus)
