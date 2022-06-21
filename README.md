@@ -163,6 +163,8 @@ a few repos
 
 [Uber's highest query per second service](http://eng.uber.com/go-geofence/)
 
+[A Study of Real-World Data Races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
+
 [other data structures for geofencing](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
 
 [SQL builder and database toolkit](https://github.com/colinjfw/sqlkit)
