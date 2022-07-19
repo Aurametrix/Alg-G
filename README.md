@@ -192,6 +192,8 @@ a few repos
 
 [Data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
 
+[From Python to Go](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
+
 [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
 
 [11/10/2020](https://blog.golang.org/11years) - 11 years of GO
