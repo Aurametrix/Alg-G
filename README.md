@@ -199,6 +199,7 @@ a few repos
 [11/10/2020](https://blog.golang.org/11years) - 11 years of GO
 
 [1.1.9 beta](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0); [release notes](https://tip.golang.org/doc/go1.19)
+[1.19](https://go.dev/doc/go1.19)
 
 
 [Solkit](https://github.com/VladimirMarkelov/solkit) - Solitaire games
