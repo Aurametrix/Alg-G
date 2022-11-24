@@ -216,6 +216,7 @@ a few repos
 
 [web scraping](https://www.scrapingbee.com/blog/web-scraping-go/)
 
+[custom code search index](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 
 [Lmgrp](https://github.com/boyter/cs) -- [lucene grep](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
 
