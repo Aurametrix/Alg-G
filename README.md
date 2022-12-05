@@ -144,6 +144,7 @@ a few repos
 + http://jsgoecke.github.io/go-wit/
 + https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 + [Virtual Kubernetes](https://github.com/ibuildthecloud/k3v)
++ [Weatherme CLI Tool](https://github.com/eoin-barr/weatherme)
 
 + [Time series database](https://github.com/nakabonne/tstorage); [blog post](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
 
