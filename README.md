@@ -10,6 +10,8 @@ http://golang.org/doc/install
 To learn:
 http://golang.org/
 
+[Programming blueprints](https://mtlynch.io/book-reports/go-programming-blueprints/)
+
 [YC recommends](https://news.ycombinator.com/item?id=25812021)
 
 To run
