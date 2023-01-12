@@ -83,6 +83,8 @@ http://play.golang.org/
 Another Go playground powered by WASM
 https://go-playground-wasm.vercel.app/
 
+Better Structured Concurency
+https://github.com/sourcegraph/conc
 
 Machine Learning Library:
 https://github.com/sjwhitworth/golearn
