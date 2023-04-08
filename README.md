@@ -89,6 +89,9 @@ https://github.com/sourcegraph/conc
 Machine Learning Library:
 https://github.com/sjwhitworth/golearn
 
+Higher order functions
+https://eli.thegreenplace.net/2023/higher-order-functions-in-go/
+
 A library for bringing generics-like functionality to Go
 http://clipperhouse.github.io/gen/
 
