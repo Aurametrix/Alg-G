@@ -232,6 +232,11 @@ a few repos
 
 [Lmgrp](https://github.com/boyter/cs) -- [lucene grep](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
 
+e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
+    [Beeper](https://beeper.com)
+    [GOmuks](https://github.com/tulir/gomuks) - 
+    [Maubot](https://github.com/maubot/maubot) - 
+    
 ### Versioned Commands
 
     $ go list -f {{.Dir}} rsc.io/quote
