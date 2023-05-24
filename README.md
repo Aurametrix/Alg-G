@@ -80,6 +80,9 @@ Go’s structs and pointers are very similar to C, the main difference is that p
 Go Playground
 http://play.golang.org/
 
+How to start a GO project in 2023
+https://boyter.org/posts/how-to-start-go-project-2023/
+
 Another Go playground powered by WASM
 https://go-playground-wasm.vercel.app/
 
