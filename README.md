@@ -149,6 +149,7 @@ https://www.youtube.com/user/gocoding
 a few repos
 
 + [Build Your Own Search Engine](https://wiby.me/about/guide.html)  - [repo](https://github.com/wibyweb/wiby/)
++ [OpenSERP - API for Search Engine](https://github.com/karust/openserp)
 + https://github.com/clipperhouse/gen/tree/projection
 + https://github.com/droundy/gotgo
 + https://github.com/jbrukh/bayesian 
