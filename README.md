@@ -182,6 +182,8 @@ a few repos
 
 [SQL builder and database toolkit](https://github.com/colinjfw/sqlkit)
 
+[FeretDB](https://github.com/FerretDB/FerretDB) - MongoDB Protocol for SQLite
+
 [web development](https://freshman.tech/web-development-with-go/)
 
 [Pushup](https://github.com/adhocteam/pushup) - page-oriented web framework for Go
