@@ -184,6 +184,8 @@ a few repos
 
 [FeretDB](https://github.com/FerretDB/FerretDB) - MongoDB Protocol for SQLite
 
+[GO Git](https://benhoyt.com/writings/gogit/) - a 400-line Git client that can create a repo and push itself to GitHub
+
 [web development](https://freshman.tech/web-development-with-go/)
 
 [Pushup](https://github.com/adhocteam/pushup) - page-oriented web framework for Go
