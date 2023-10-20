@@ -128,6 +128,8 @@ http://kukuruku.co/hub/golang/go-language-for-beginners
 
 [Regular expressions](https://codesalad.dev/blog/go-regular-expressions-5)
 
+[Banging errors](https://flak.tedunangst.com/post/bango)
+
 Youtube:
 https://www.youtube.com/user/gocoding
 
