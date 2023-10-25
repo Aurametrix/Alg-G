@@ -169,6 +169,7 @@ a few repos
 + http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
 
 + [Bug tracker embedded in Git](https://github.com/MichaelMure/git-bug)
++ [Togomak](https://github.com/srevinsaju/togomak) - pipeline orchestrator
 
 [Hugo](http://themes.gohugo.io) -  open-source static site generator
 
