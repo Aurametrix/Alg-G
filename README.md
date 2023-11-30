@@ -224,6 +224,8 @@ a few repos
 [1.1.9 beta](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0); [release notes](https://tip.golang.org/doc/go1.19)
 [1.19](https://go.dev/doc/go1.19)
 
+[errtrace](https://github.com/bracesdev/errtrace) - trace error's return path
+
 
 [Solkit](https://github.com/VladimirMarkelov/solkit) - Solitaire games
 
