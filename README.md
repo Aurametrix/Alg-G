@@ -226,6 +226,7 @@ a few repos
 
 [errtrace](https://github.com/bracesdev/errtrace) - trace error's return path
 
+[Google Maps Scraper](https://github.com/gosom/google-maps-scraper)
 
 [Solkit](https://github.com/VladimirMarkelov/solkit) - Solitaire games
 
