@@ -232,6 +232,8 @@ a few repos
 
 [Perkeep](https://github.com/perkeep/perkeep) - peersonal storage systeem
 
+[Gokrazy](https://gokrazy.org/) - deploy your Go programs as appliances to a Raspberry Pi or PC
+
 [PCP](https://github.com/dennis-tra/pcp) - peer-to-peer data transfr tool
 
 [Command PATH security](https://blog.golang.org/path-security)
