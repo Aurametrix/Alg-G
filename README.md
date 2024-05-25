@@ -258,6 +258,8 @@ a few repos
 
 [Streaming Platform for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
 
+[SPOT](https://github.com/roblillack/spot) - cross-platform, reactive GUI toolkit for Go using native widgets where available.
+
 e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
     [Beeper](https://beeper.com)
     [GOmuks](https://github.com/tulir/gomuks) - 
