@@ -16,6 +16,8 @@ http://golang.org/
 
 [YC recommends](https://news.ycombinator.com/item?id=25812021)
 
+[Fast and reliable background jobs in Go](https://riverqueue.com/)
+
 To run
 
 go run *.go
