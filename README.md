@@ -266,6 +266,10 @@ a few repos
 
 [SPOT](https://github.com/roblillack/spot) - cross-platform, reactive GUI toolkit for Go using native widgets where available.
 
+[Bruin](https://github.com/bruin-data/bruin - data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework.
+
+)
+
 e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
     [Beeper](https://beeper.com)
     [GOmuks](https://github.com/tulir/gomuks) - 
