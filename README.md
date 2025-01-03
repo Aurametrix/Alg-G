@@ -219,6 +219,8 @@ a few repos
 
 [io_uring](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 
+[Connet](https://github.com/connet-dev/connet) - peer-to-peer reverse proxy for NAT traversal
+
 [Go users 2017 survey](https://blog.golang.org/survey2017-results)
 
 [GO developer survey 2019](https://blog.golang.org/survey2019-results)
