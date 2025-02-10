@@ -268,9 +268,10 @@ a few repos
 
 [SPOT](https://github.com/roblillack/spot) - cross-platform, reactive GUI toolkit for Go using native widgets where available.
 
-[Bruin](https://github.com/bruin-data/bruin - data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework.
+[Bruin](https://github.com/bruin-data/bruin) - data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework.
 
-)
+
+[Fasten](https://github.com/fastenhealth/fasten-onprem) - backend in go, front end in .ts - securely connects your healthcare providers together, creating a personal health record that never leaves your hands
 
 e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
     [Beeper](https://beeper.com)
