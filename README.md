@@ -270,6 +270,8 @@ a few repos
 
 [Bruin](https://github.com/bruin-data/bruin) - data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework.
 
+[Physics-GO](https://github.com/rudransh61/Physix-go) - A Simple Physics Engine in GoLang
+
 [Goravel](https://www.goravel.dev/) - A Go framework inspired by Laravel
 
 [Fasten](https://github.com/fastenhealth/fasten-onprem) - backend in go, front end in .ts - securely connects your healthcare providers together, creating a personal health record that never leaves your hands
