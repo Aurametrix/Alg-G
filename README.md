@@ -155,6 +155,7 @@ https://www.youtube.com/user/gocoding
 a few repos
 
 + [Build Your Own Search Engine](https://wiby.me/about/guide.html)  - [repo](https://github.com/wibyweb/wiby/)
++ [An HTTP Server in Go From scratch](https://www.krayorn.com/posts/http-server-go-2/)
 + [OpenSERP - API for Search Engine](https://github.com/karust/openserp)
 + https://github.com/clipperhouse/gen/tree/projection
 + https://github.com/droundy/gotgo
