@@ -165,6 +165,7 @@ a few repos
 + [Virtual Kubernetes](https://github.com/ibuildthecloud/k3v)
 + [Weatherme CLI Tool](https://github.com/eoin-barr/weatherme)
 + [Polaris]([weight workflow orchestrator for Golang](https://github.com/harshadmanglani/polaris)) - extremely lightweight workflow orchestrator for Golang
++ [GO optimization guide](https://goperf.dev/)
 
 + [Time series database](https://github.com/nakabonne/tstorage); [blog post](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
 
