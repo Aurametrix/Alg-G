@@ -235,6 +235,8 @@ a few repos
 
 [11/10/2020](https://blog.golang.org/11years) - 11 years of GO
 
+[Faster Interpreters in Go](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
+
 [1.1.9 beta](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0); [release notes](https://tip.golang.org/doc/go1.19)
 [1.19](https://go.dev/doc/go1.19)
 
