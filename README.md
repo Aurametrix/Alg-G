@@ -166,6 +166,7 @@ a few repos
 + [Weatherme CLI Tool](https://github.com/eoin-barr/weatherme)
 + [Polaris]([weight workflow orchestrator for Golang](https://github.com/harshadmanglani/polaris)) - extremely lightweight workflow orchestrator for Golang
 + [GO optimization guide](https://goperf.dev/)
++ [ClipCapsule](https://github.com/Victor-Evogor/clipcapsule) -  a minimalist clipboard manager for Linux, built with Go and WailsJS. It supercharges your productivity by allowing you to manage and switch clipboard entries using only keyboard shortcuts—no mouse or GUI required.
 
 + [Time series database](https://github.com/nakabonne/tstorage); [blog post](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
 
