@@ -202,6 +202,8 @@ a few repos
 
 [GO Git](https://benhoyt.com/writings/gogit/) - a 400-line Git client that can create a repo and push itself to GitHub
 
+[Layered design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
+
 [web development](https://freshman.tech/web-development-with-go/)
 
 [Pushup](https://github.com/adhocteam/pushup) - page-oriented web framework for Go
