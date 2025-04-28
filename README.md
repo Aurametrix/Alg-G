@@ -259,6 +259,8 @@ a few repos
 
 [Command PATH security](https://blog.golang.org/path-security)
 
+[Tilt](https://github.com/tilt-dev/tilt) - dev environment as code
+
 [The universal loader](https://www.symbolcrash.com/2021/03/04/the-universal-loader-for-go/)
 
 [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
