@@ -247,6 +247,8 @@ a few repos
 
 [errtrace](https://github.com/bracesdev/errtrace) - trace error's return path
 
+[graceful shutdown in go](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
+
 [Google Maps Scraper](https://github.com/gosom/google-maps-scraper)
 
 [Solkit](https://github.com/VladimirMarkelov/solkit) - Solitaire games
