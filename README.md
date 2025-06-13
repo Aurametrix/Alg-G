@@ -281,6 +281,8 @@ a few repos
 
 [tcpulse](https://github.com/yuuki/tcpulse) - concurrent TCP/UDP load generator wthat provides fine-grained, flow-level control over connection establishment and data transfer.
 
+[mcwig](https://github.com/firstrow/mcwig)   - editor
+
 [SPOT](https://github.com/roblillack/spot) - cross-platform, reactive GUI toolkit for Go using native widgets where available.
 
 [Bruin](https://github.com/bruin-data/bruin) - data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework.
