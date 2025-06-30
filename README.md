@@ -291,6 +291,8 @@ a few repos
 
 [Goravel](https://www.goravel.dev/) - A Go framework inspired by Laravel
 
+[event dispatcher](https://github.com/kelindar/event)
+
 [Fasten](https://github.com/fastenhealth/fasten-onprem) - backend in go, front end in .ts - securely connects your healthcare providers together, creating a personal health record that never leaves your hands
 
 e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
