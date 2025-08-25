@@ -253,6 +253,8 @@ a few repos
 
 [Solkit](https://github.com/VladimirMarkelov/solkit) - Solitaire games
 
+[Games in GO](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
+
 [Perkeep](https://github.com/perkeep/perkeep) - peersonal storage systeem
 
 [Gokrazy](https://gokrazy.org/) - deploy your Go programs as appliances to a Raspberry Pi or PC
