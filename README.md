@@ -187,6 +187,7 @@ a few repos
 [Purl](https://github.com/catatsuy/purl) - practical alternative to traditional tools like sed and grep, designed to address some of their common limitations
 
 [Ful-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) - [github]((https://github.com/akrylysov/simplefts)
+[Blaze](https://github.com/wizenheimer/blaze) - A high-performance full-text search engine in Go with inverted indexing, boolean queries, phrase search, proximity queries, and BM25 ranking
 
 [Uber's highest query per second service](http://eng.uber.com/go-geofence/)
 
