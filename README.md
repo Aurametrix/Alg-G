@@ -282,6 +282,8 @@ a few repos
 
 [Constraints in GO](https://bitfieldconsulting.com/posts/constraints)
 
+[The ro library](https://github.com/samber/ro) - Reactive Programming paradigm for Go for event-driven applications
+
 [ML in GO](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 
 [tcpulse](https://github.com/yuuki/tcpulse) - concurrent TCP/UDP load generator wthat provides fine-grained, flow-level control over connection establishment and data transfer.
