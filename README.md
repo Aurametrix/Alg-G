@@ -173,7 +173,7 @@ a few repos
 + [Parallel Image Processing Algorithms](https://github.com/anthonynsimon/bild)
 
 + [Automated trading](https://github.com/env0/terratag)
-
++ [Opencloud](https://github.com/opencloud-eu/opencloud) - an alternative to Nextcloud written in Go
 + http://jozefg.bitbucket.org/posts/2013-08-23-leaving-go.html
 + [NBFM](https://github.com/notebox/nbfm) - file manager + CRDT Note Editor
 
