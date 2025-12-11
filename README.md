@@ -241,6 +241,8 @@ a few repos
 
 [11/10/2020](https://blog.golang.org/11years) - 11 years of GO
 
+[Golang’s Big Miss on Memory Arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
+
 [Faster Interpreters in Go](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 
 [Weather MPC server](https://github.com/TuanKiri/weather-mcp-server) - A lightweight Model Context Protocol (MCP) server that enables AI assistants like Claude to retrieve and interpret real-time weather data.
