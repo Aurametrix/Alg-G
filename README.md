@@ -292,6 +292,8 @@ a few repos
 
 [mcwig](https://github.com/firstrow/mcwig)   - editor
 
+[Treesitter](https://github.com/odvcencio/gotreesitter)
+
 [SPOT](https://github.com/roblillack/spot) - cross-platform, reactive GUI toolkit for Go using native widgets where available.
 
 [Bruin](https://github.com/bruin-data/bruin) - data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework.
