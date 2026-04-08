@@ -306,6 +306,8 @@ a few repos
 
 [event dispatcher](https://github.com/kelindar/event)
 
+[GO-BT](https://github.com/rvitorper/go-bt) - Minimalist Behavior Trees for Go
+
 [Fasten](https://github.com/fastenhealth/fasten-onprem) - backend in go, front end in .ts - securely connects your healthcare providers together, creating a personal health record that never leaves your hands
 
 e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
