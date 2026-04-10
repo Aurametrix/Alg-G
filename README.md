@@ -298,6 +298,8 @@ a few repos
 
 [Bruin](https://github.com/bruin-data/bruin) - data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework.
 
+[Tela](https://github.com/paulmooreparks/tela) - building own cloud
+
 [Physics-GO](https://github.com/rudransh61/Physix-go) - A Simple Physics Engine in GoLang
 
 [The Evolution of Caching Libraries](https://maypok86.github.io/otter/blog/cache-evolution/#on-heap-vs-off-heap)
