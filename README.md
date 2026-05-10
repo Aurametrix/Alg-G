@@ -284,6 +284,8 @@ a few repos
 
 [Constraints in GO](https://bitfieldconsulting.com/posts/constraints)
 
+[Clojure like language in Go](https://github.com/nooga/let-go)
+
 [The ro library](https://github.com/samber/ro) - Reactive Programming paradigm for Go for event-driven applications
 
 [ML in GO](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
