@@ -314,6 +314,8 @@ a few repos
 
 [Fasten](https://github.com/fastenhealth/fasten-onprem) - backend in go, front end in .ts - securely connects your healthcare providers together, creating a personal health record that never leaves your hands
 
+[Support for generic methods](https://github.com/golang/go/issues/77273)
+
 e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
     [Beeper](https://beeper.com)
     [GOmuks](https://github.com/tulir/gomuks) - 
