@@ -316,6 +316,8 @@ a few repos
 
 [Support for generic methods](https://github.com/golang/go/issues/77273)
 
+[Tiny](https://github.com/confh/Tiny) - A high-performance, concurrent bytecode virtual machine and language written in Go.
+
 e-paper gadgets. [Beepberry](https://github.com/beeper/beepberry) - a portable e-paper computer for hackers, designed for chatting on Beeper.
     [Beeper](https://beeper.com)
     [GOmuks](https://github.com/tulir/gomuks) - 
