@@ -309,6 +309,8 @@ a few repos
 
 [Goravel](https://www.goravel.dev/) - A Go framework inspired by Laravel
 
+[generic collection types](https://github.com/golang/go/issues/80590) - Golang proposal July 2026
+
 [event dispatcher](https://github.com/kelindar/event)
 
 [GO-BT](https://github.com/rvitorper/go-bt) - Minimalist Behavior Trees for Go
