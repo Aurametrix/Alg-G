@@ -309,6 +309,8 @@ a few repos
 
 [Goravel](https://www.goravel.dev/) - A Go framework inspired by Laravel
 
+[Petri Nets as a Music Sequencer](https://github.com/stackdump/beats-bitwrap-io)
+
 [generic collection types](https://github.com/golang/go/issues/80590) - Golang proposal July 2026
 
 [event dispatcher](https://github.com/kelindar/event)
