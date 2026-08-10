@@ -317,6 +317,8 @@ a few repos
 
 [GO-BT](https://github.com/rvitorper/go-bt) - Minimalist Behavior Trees for Go
 
+[Relying on Go](https://antonz.org/relying-on-go/)
+
 [Fasten](https://github.com/fastenhealth/fasten-onprem) - backend in go, front end in .ts - securely connects your healthcare providers together, creating a personal health record that never leaves your hands
 
 [Support for generic methods](https://github.com/golang/go/issues/77273)
