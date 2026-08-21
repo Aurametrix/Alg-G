@@ -102,6 +102,8 @@ https://eli.thegreenplace.net/2023/higher-order-functions-in-go/
 A library for bringing generics-like functionality to Go
 http://clipperhouse.github.io/gen/
 
+[Generic Methods](https://dominik.info/blog/go-generic-methods)
+
 Go Object Oriented Design
 http://nathany.com/good/
 
