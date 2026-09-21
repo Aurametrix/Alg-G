@@ -8,3 +8,5 @@
 
 
 [LLM tetris console game](https://github.com/plar/llm-tetris)
+
+[Robotics Framework](https://github.com/emergingrobotics/gorai)
