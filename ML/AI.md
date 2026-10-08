@@ -5,6 +5,8 @@
 [GO attention](https://github.com/takara-ai/go-attention) - pure Go implementation of attention mechanisms and transformer layers, designed for high performance and ease of use
 
 
+[Docker Agent](https://github.com/docker/docker-agent)
+
 
 
 [LLM tetris console game](https://github.com/plar/llm-tetris)
