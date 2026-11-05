@@ -248,6 +248,8 @@ a few repos
 
 [Faster Interpreters in Go](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 
+[Gist of Go: Concurrency](https://antonz.org/go-concurrency/)
+
 [Weather MPC server](https://github.com/TuanKiri/weather-mcp-server) - A lightweight Model Context Protocol (MCP) server that enables AI assistants like Claude to retrieve and interpret real-time weather data.
 
 [1.1.9 beta](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0); [release notes](https://tip.golang.org/doc/go1.19)
